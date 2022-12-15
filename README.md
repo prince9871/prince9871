@@ -37,6 +37,10 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=princesoni1989&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludehsar&hide=TeX&layout=compact)
 
+## Snake eating my Contribution Graph
+![snake gif](https://github.com/prince9871/prince9871/blob/output/github-contribution-grid-snake.gif)
 
+
+![gitartwork](gitartwork.svg)
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-prince9871-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prince9871/)](https://www.linkedin.com/in/prince9871/) -->
