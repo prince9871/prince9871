@@ -2,9 +2,9 @@
 
 I am Prince Soni, currently working as a Software Engineer at the [FunctionUP](https://functionup.org/). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prince9871/)](https://www.linkedin.com/in/prince9871/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prince9871/)](https://www.linkedin.com/in/prince9871/)  [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soniprince142@gmail.com)](mailto:soniprince142@gmail.com)
 <!-- [![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/) -->
-[![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soniprince142@gmail.com)](mailto:soniprince142@gmail.com)
+
 <!-- [![Facebook Badge](https://img.shields.io/badge/prince9871-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/prince9871/)](https://www.facebook.com/prince9871/) -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar)
