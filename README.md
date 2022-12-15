@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi <img alt="img" width="30" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif">, I'm Prince Soni</h1>
 
 I am Prince Soni, currently working as a Software Engineer at the [FunctionUP](https://functionup.org/). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
