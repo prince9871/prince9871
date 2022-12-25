@@ -35,7 +35,7 @@
 <!-- ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket) -->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=princesoni1989&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludehsar&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prince9871&hide=TeX&layout=compact)
 
 <!-- ## Snake eating my Contribution Graph
 ![snake gif](https://github.com/prince9871/prince9871/blob/output/github-contribution-grid-snake.gif)
