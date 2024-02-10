@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img alt="img" width="30" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif">, I'm Prince Soni</h1>
 
-<b>I am Prince Soni, currently working as a Software Engineer at the [FunctionUP](https://functionup.org/). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:</b>
+<b>I am Prince Soni, currently working as a Software Engineer at the [FunctionUP](https://functionup.org/). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here: </b>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prince9871/)](https://www.linkedin.com/in/prince9871/)  [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soniprince142@gmail.com)](mailto:soniprince142@gmail.com)
 <!-- [![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/) -->
